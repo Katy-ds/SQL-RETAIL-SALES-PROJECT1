@@ -1,0 +1,2 @@
+# SQL-RETAIL-SALES-PROJECT1
+Retail Sales Project - SQL
