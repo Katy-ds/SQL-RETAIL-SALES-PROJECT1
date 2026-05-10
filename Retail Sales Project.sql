@@ -170,3 +170,6 @@ case
     count(*) as total_orders
     from hourly_sale
     group by shift;
+
+
+----END OF PROJECT---
